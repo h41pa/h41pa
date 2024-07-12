@@ -14,5 +14,4 @@ Languages and Tools:
 <a href="https://www.mysql.com/"> <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="dot" width="48" height="48"></a>
 <a href="https://www.selenium.dev/documentation/webdriver/"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="dot" width="48" height="48"></a>
 <a href="https://www.postman.com/"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="dot" width="48" height="48"></a>
-<a href=""> <img src="" alt="dot" width="48" height="48"></a>
 
