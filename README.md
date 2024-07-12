@@ -5,7 +5,7 @@
 
 - Languages and Tools:
 <br>
-- <a href="https://git-scm.com/"> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="dot" width="48" height="48"></a> 
+<a href="https://git-scm.com/"> <img src="https://www.svgrepo.com/show/452210/git.svg" alt="dot" width="48" height="48"></a> 
 <a href="https://html.com/"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="dot" width="48" height="48"></a>
 <a href=""> <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="dot" width="48" height="48"></a>
 <a href="https://www.python.org/"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="dot" width="48" height="48"></a>
