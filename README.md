@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h41pa
+- 👋 Hi, I’m Madalin Chelu
 - 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on python developing and automation testing
 - 📫 Reach me: <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="dot" width="24" height="24"> [https://www.linkedin.com/in/h41pa/](https://www.linkedin.com/in/h41pa/)
